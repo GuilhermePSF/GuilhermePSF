@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a student of Engenharia Informática at Universidade do Minho, Portugal.<br><br>🚀 Passionate about Phoenix & Elixir, currently learning Phoenix.<br>🎮 Love game development and exploring new tech.<br>🎓 Volunteer at CoderDojo, helping others learn to code!
+👋 Hi! I'm a student of Engenharia Informática at Universidade do Minho, Portugal.<br><br>🚀 Passionate about web development, currently learning Phoenix.<br>🎮 Love game development and exploring new tech.<br>🎓 Volunteer at CoderDojo, helping others learn to code!
 
 
 ## 🌐 Contacts:
