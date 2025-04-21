@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a student of Engenharia Informática at Universidade do Minho, Portugal.<br><br>🚀 Passionate about web development, currently learning Phoenix and Vue.<br>🎮 Love game development and exploring new tech.<br>🎓 Volunteer at CoderDojo and Organizer of CoderCamp 25, helping others learn to code!
+👋 Hi! I'm a student of Engenharia Informática at Universidade do Minho, Portugal.<br><br>🚀 Passionate about web development, currently learning Phoenix and Vue.<br>🎮 Love game development and exploring new tech.<br>🎓 Volunteer at CoderDojo and Co-Organizer of CoderCamp 25, helping others learn to code!
 
 
 ## 🌐 Contacts:
