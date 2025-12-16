@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a 2nd year student of Engenharia Informática at Universidade do Minho, Portugal.<br><br>🚀 Passionate about web development, currently learning, Phoenix Live View, Nix and general system programming.<br>🎮 Love game development and exploring new tech.<br>💼 Part of the 2025 [YariLabs](https://github.com/realyarilabs)(@realyarilabs) summer internship program.<br>🎓 Champion at CoderDojo and ex Co-Organizer of CoderCamp 25, helping others learn to code!<br>🧡Co-Director of the social and partnerships department, trying to empower students with partnerships and improve their life quality.
+👋 Hi! I'm a 2nd year student of Engenharia Informática at Universidade do Minho, Portugal.<br><br>🚀 Passionate about web development, currently learning, Phoenix Live View, also learning Nix and general system programming.<br>🎮 Love game development and exploring new tech.<br>💼 Part of the 2025 [YariLabs](https://github.com/realyarilabs)(@realyarilabs) summer internship program.<br>🎓 Champion at CoderDojo and ex Co-Organizer of CoderCamp 25, helping others learn to code!<br>🧡Co-Director of the social and partnerships department, trying to empower students with partnerships and improve their life quality.
 
 
 ## 🌐 Contacts:
